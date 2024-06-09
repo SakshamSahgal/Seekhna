@@ -1,1 +1,4 @@
-jai baba ki
+function hello()
+{
+    console.log("hello");
+}
