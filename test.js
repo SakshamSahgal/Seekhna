@@ -1,1 +1,3 @@
-my changesasdas
+function by(){
+    console.log('by');
+}
